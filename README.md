@@ -1,12 +1,7 @@
 # calculadora
 
-Título de la actividad: Calculadora
-
-Modalidad: Individual
-
-Fecha última de entrega: lunes 27 de febrero a las 23:55 hrs
-
-Valor: 5 pts
+Manuel Enrique Rodriguez-Villacorta
+Carne 22006988
 
 Instrucciones:
 
